@@ -1,0 +1,22 @@
+{
+    "Workout Commands" : {
+       "pullvid": "get a good pull workout", 
+       "pushvid":"get a good push workout", 
+       "legvid": "get a good legs workout",
+       "homevid": "get a good workout at home"
+         
+    },
+    "Food Commands" : {
+        "routine [h m s]": "get daily workout messages",
+        "BMR [height cm][Weight kg][Age][Gender: Male or Female][Active lvl: Notactive , lightactive, Modactive, Veryactive, Extraactive]": "get BMR",
+        "Foods [Gain] or [Lose]": "get info on gaining or losing weight"
+    },
+
+    "BMI Commands" : {
+        "BMI [height in cm][weight in kg]": "get BMI",
+        "BMIchart": "Displays the Chart for BMI showing the Basics",
+        "Mchart": "Chart displays the marcros for 3 different body goals",
+        "MacroInfo": "Introduction for Macronutrients",
+        "Macrocalc": "Input your Gender and Weight and it returns your optimal Macros"        
+    }
+}

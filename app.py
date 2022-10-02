@@ -225,4 +225,4 @@ async def on_ready():
     # await schedule_daily_message()
 
 if __name__ == '__main__':
-    bot.run("MTAyNTgzMDcyMDkzOTIzMzM4MA.GpRTvM.0xFMfgOtCIfje01LjB9Yx8Zl0TEkDBgdVyKPCY")
+    bot.run("Token")

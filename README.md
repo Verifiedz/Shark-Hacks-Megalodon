@@ -38,6 +38,7 @@ This Project can be found on our github and the devpost listing, as well as on d
 The target Audience is for people seeking alternatives to learning to workout, or new individuals that are still new to workining out or creating a meal plan. People new to fitness are able to check their macronutrients and the daily calorie intake, just by a simple input on discord. However, It is also useful for veterans who want quickly check their weekly or monthly progress.This conbined with the access to workouts that are presented in video format allow for people to stress less about creating a plan, and can implement a workout routine on the fly, especially for those who dont have time. 
 
 <strong><big>Functionality Requirements:✅</big></strong><br/>
-The functionality of the code is based on the basis of python, with the nextCord API importation, In order for it to function occordingly this topped off by the implementation of Twilio. 
+The functionality of the code is based on the basis of python, with the nextCord API importation, In order for it to function occordingly this topped off by the implementation of Twilio.   
+  
 By: 
-Saad Wasim(Verifiedz), Wasay Adil(Wasay76), Zain Qurashi(Zainnn15), Rupin Sharma(Rupin)
+Saad Wasim(Verifiedz), Wasay Adil(Wasay76), Zain Qurashi(Zainnn15), Rupin Sharma(Rupin77)

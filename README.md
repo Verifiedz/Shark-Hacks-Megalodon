@@ -16,7 +16,7 @@ Our hope for "Megalodon" was to improve the physical and mental health of those 
 "Megalodon" allows users to easily calculate their BMI, BMR, maintenance calories and macros through derived formulas. The bot uses Twilio for programmable messages to send and receive daily reminders to work out and eat healthily. The bot allows the user to input whether they are losing or gaining weight, and to provide recommended meals and information accordingly. The bot also gives the user access to charts and other statistics to keep them motivated to keep working out and eating healthy. Lastly, the bot has a workout shark memes feature to keep users entertained throughout their process.
 
 <strong><big>How we built it:🤷‍♂️</big></strong><br/>
-python, nextcord, 
+python, nextcord, Twilio
 
 
 <strong><big> Challenges We ran into:⚔️</big></strong><br/>⚔

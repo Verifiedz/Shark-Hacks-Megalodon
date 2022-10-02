@@ -87,7 +87,7 @@ async def schedule_daily_message(h, m, s, channelid):
         message = client.messages.create(
             body=random.choice(links["pullworkout"]),
             from_=keys.number,
-            to="4168285579"
+            to="phonenumber"
             )
         await asyncio.sleep(1) 
 

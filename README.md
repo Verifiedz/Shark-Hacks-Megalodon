@@ -2,10 +2,9 @@
 <h1>Megalodon</h1>
 Having trouble lifting? Never fear, Sharkweek is here
 <br/>
-# PICTURE GOES HERE   
+# PICTURE GOES HERE        
 <strong><big><u>Description:</u>📝</big></strong><br/>
-Working together as a team is a challenge when attempting to work together and coordanate a bot such as this one. "Megalodon" was created to allow those who don't feel the motivation to begin to better themselves, or do not have a starting point. These people can utalize the features of "Megalodon" to not only beign to better themselves, but also to ensure to continue their journey. We hope to be able to inspire people who lack motivation for working out and give them a portal to begin.
-
+Working together as a team is a challenge when attempting to work together and coordanate a bot such as this one. "Megalodon" was created to allow those who don't feel the motivation to begin to better themselves, or do not have a starting point. These people can utalize the features of "Megalodon" to not only beign to better themselves, but also to ensure to continue their journey. We hope to be able to inspire people who lack motivation for working out and give them a portal to begin.  
 
 <strong><big>Inspiration:💡</big></strong><br/>
 Our hope for "Megalodon" was to improve the physcial and mental health of those who lack the motivation to change themselves. Many people cannot go out of their way to get themselves to workout or eat healthier, and discord is an easy way to get started. "Megalodon" is not only meant to inspire one to start to better themselves, but to ensure it is consistant. Through daily workout reminders and routines, and healthy eating habits, the user can make sure they never stop their jounrey. Our goal is for "Megalodon" to be across all discord servers so as many people can begin to better themselves.
